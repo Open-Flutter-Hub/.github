@@ -21,12 +21,6 @@ We welcome contributions from developers, designers, and testers! Here's how you
 4. **Push** your branch and create a **Pull Request**.
 5. Our team will review your changes, and once approved, your code will become a part of Open Flutter Hub!
 
-### Areas of Contribution
-- Flutter libraries and packages
-- Full-stack Flutter applications
-- UI/UX improvements and theming
-- Mobile development tutorials and documentation
-- Performance optimizations and testing tools
 
 ## Getting Started
 - Make sure you have Flutter installed. If not, [download and install Flutter](https://flutter.dev/docs/get-started/install).
